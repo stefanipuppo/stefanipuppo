@@ -5,12 +5,12 @@ Aqui você encontrará projetos pessoais, além de projetos e exercícios desenv
 
 Atualmente, trabalho como Analista de Suporte, mas meu dia a dia é fortemente voltado para dados. 
 
-### Linhas atividades envolvem principalmente:
+### Minhas atividades envolvem principalmente:
 - Ajuste, análise e tratamento de dados
 - Identificação de inconsistências e erros
 - Criação de relatórios e consultas
 
-Tenho grande interesse em me especializar em SQL, trabalhando atualmente com PostgreSQL, e estou em constante aprimoramento técnico.
+Tenho grande interesse em me especializar em SQL/Python, trabalho atualmente com PostgreSQL e estou em constante aprimoramento técnico.
 Meu objetivo principal é, no futuro, migrar para a área de Engenharia de Dados, e este repositório faz parte da minha jornada de estudos, prática e evolução nessa direção.
 
 ## 🌍 Comunidades & Participação
